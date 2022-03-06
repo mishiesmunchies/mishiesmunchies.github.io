@@ -13,7 +13,7 @@
   <!-- Use Atom -->
   <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Mishies Munchies" />
   <!-- RSS-v2.0
-  <link href="/rss-feed.xml" type="application/rss+xml" rel="alternate" title="Mishies Munchies | "/>
+  <link href="/rss-feed.xml" type="application/rss+xml" rel="alternate" title="Mishies Munchies | Website"/>
   //-->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -68,7 +68,7 @@
     
       <a href="/sample-posts" class="menu-link">Sample Posts</a>
     
-      <a href="/documentation" class="menu-link">Documentation</a>
+      <a href="/announcements" class="menu-link">Announcements</a>
     
       <a href="/about" class="menu-link">About</a>
     
@@ -96,7 +96,7 @@
       
         <a href="/sample-posts" class="menu-link">Sample Posts</a>
       
-        <a href="/documentation" class="menu-link">Documentation</a>
+        <a href="/announcements" class="menu-link">Announcements</a>
       
         <a href="/about" class="menu-link">About</a>
       
@@ -175,49 +175,66 @@
 
 <h2 id="table-of-contents">Table of Contents</h2>
 
-<ol>
-  <li><a href="#introduction">Introduction</a>
-    <ol>
-      <li><a href="#what-is-jekyll">What is Jekyll</a></li>
-      <li><a href="#never-used-jekyll-before">Never Used Jeykll Before?</a></li>
-    </ol>
+<ul>
+  <li><a href="#millennial">Millennial</a>
+    <ul>
+      <li><a href="#notable-features">Notable features</a></li>
+      <li><a href="#table-of-contents">Table of Contents</a></li>
+      <li><a href="#introduction">Introduction</a>
+        <ul>
+          <li><a href="#what-is-jekyll">What is Jekyll?</a></li>
+          <li><a href="#never-used-jekyll-before">Never Used Jekyll Before?</a></li>
+        </ul>
+      </li>
+      <li><a href="#installation">Installation</a>
+        <ul>
+          <li><a href="#github-pages-installation">GitHub Pages Installation</a></li>
+          <li><a href="#local-installation">Local Installation</a></li>
+          <li><a href="#directory-structure">Directory Structure</a></li>
+          <li><a href="#starting-from-scratch">Starting From Scratch</a></li>
+        </ul>
+      </li>
+      <li><a href="#configuration">Configuration</a>
+        <ul>
+          <li><a href="#sample-posts">Sample Posts</a></li>
+          <li><a href="#site-variables">Site Variables</a></li>
+          <li><a href="#adding-menu-pages">Adding Menu Pages</a></li>
+          <li><a href="#posts">Posts</a></li>
+          <li><a href="#layouts">Layouts</a></li>
+          <li><a href="#yaml-front-block-matter">YAML Front Block Matter</a></li>
+        </ul>
+      </li>
+      <li><a href="#features">Features</a>
+        <ul>
+          <li><a href="#design-considerations">Design Considerations</a></li>
+          <li><a href="#disqus">Disqus</a></li>
+          <li><a href="#google-analytics">Google Analytics</a></li>
+          <li><a href="#rss-feeds">RSS Feeds</a></li>
+          <li><a href="#social-media-icons">Social Media Icons</a></li>
+          <li><a href="#mathjax">MathJax</a></li>
+          <li><a href="#syntax-highlighting">Syntax Highlighting</a></li>
+          <li><a href="#markdown">Markdown</a></li>
+        </ul>
+      </li>
+      <li><a href="#everything-else">Everything Else</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#questions">Questions?</a></li>
+      <li><a href="#credits">Credits</a>
+        <ul>
+          <li><a href="#creator">Creator</a>
+            <ul>
+              <li><a href="#paul-le">Paul Le</a></li>
+            </ul>
+          </li>
+          <li><a href="#contributors">Contributors</a></li>
+          <li><a href="#icons--demo-images">Icons + Demo Images</a></li>
+          <li><a href="#other">Other</a></li>
+        </ul>
+      </li>
+      <li><a href="#license">License</a></li>
+    </ul>
   </li>
-  <li><a href="#installation">Installation</a>
-    <ol>
-      <li><a href="#github-pages-installation">GitHub Pages Installation</a></li>
-      <li><a href="#local-installation">Local Installation</a></li>
-      <li><a href="#directory-structure">Directory Structure</a></li>
-      <li><a href="#starting-from-scratch">Starting From Scratch</a></li>
-    </ol>
-  </li>
-  <li><a href="#configuration">Configuration</a>
-    <ol>
-      <li><a href="#sample-posts">Sample Posts</a></li>
-      <li><a href="#site-variables">Site Variables</a></li>
-      <li><a href="#adding-menu-pages">Adding Menu Pages</a></li>
-      <li><a href="#posts">Posts</a></li>
-      <li><a href="#layouts">Layouts</a></li>
-      <li><a href="#yaml-front-block-matter">YAML Front Block Matter</a></li>
-    </ol>
-  </li>
-  <li><a href="#features">Features</a>
-    <ol>
-      <li><a href="#design-considerations">Design Considerations</a></li>
-      <li><a href="#disqus">Disqus</a></li>
-      <li><a href="#google-analytics">Google Analytics</a></li>
-      <li><a href="#rss-feeds">RSS Feeds</a></li>
-      <li><a href="#social-media-icons">Social Media Icons</a></li>
-      <li><a href="#mathjax">MathJax</a></li>
-      <li><a href="#syntax-highlighting">Syntax Highlighting</a></li>
-      <li><a href="#markdown">Markdown</a></li>
-    </ol>
-  </li>
-  <li><a href="#everything-else">Everything Else</a></li>
-  <li><a href="#Contributing">Contributing</a></li>
-  <li><a href="#questions">Questions?</a></li>
-  <li><a href="#credits">Credits</a></li>
-  <li><a href="#license">License</a></li>
-</ol>
+</ul>
 
 <h2 id="introduction">Introduction</h2>
 
@@ -478,25 +495,25 @@ image:
     
       
         
+        
+      
+        
           <li>
             <h3>
-              <a href="/welcome-to-millennial">
+              <a href="/learning-resources">
                 <div class="related-thumbnail">
                   
-                    <img src="http://localhost:4000/assets/img/cuba-1.jpg">
+                    <img src="http://localhost:4000/assets/img/arctic-2.jpg">
                   
                 </div>
                 <div class="related-title">
-                  Welcome to Millennial!
+                  Learning Resources
                 </div>
-                <!--<small>January 1, 2017</small>-->
+                <!--<small>May 5, 2016</small>-->
               </a>
             </h3>
           </li>
           
-        
-      
-        
         
       
     
@@ -505,6 +522,22 @@ image:
         
       
         
+          <li>
+            <h3>
+              <a href="/text-formatting">
+                <div class="related-thumbnail">
+                  
+                    <img src="http://localhost:4000/assets/img/arctic-1.jpg">
+                  
+                </div>
+                <div class="related-title">
+                  Text Formatting
+                </div>
+                <!--<small>September 9, 2016</small>-->
+              </a>
+            </h3>
+          </li>
+          
         
       
     
@@ -528,7 +561,7 @@ image:
   
     <a href="feed.xml" class="menu-link" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
   
-  <div class="footer-description"><a href="/">Mishies Munchies |  by Michelle Luong</a></div>
+  <div class="footer-description"><a href="/">Mishies Munchies | Website by Michelle Luong</a></div>
 </footer>
 
     </div>
