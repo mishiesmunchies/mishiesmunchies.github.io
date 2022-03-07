@@ -11,7 +11,7 @@ menu:
 - {name: 'Announcements',      url: 'announcements'}
 - {name: 'Blog',               url: 'blog'}
 - {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Menu',               url: 'menu'}
 - {name: 'Order',              url: 'order'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
