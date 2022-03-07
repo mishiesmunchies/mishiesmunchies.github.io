@@ -1,7 +1,11 @@
-I"h<h2 id="order-status-closed">Order Status: CLOSED</h2>
-<p>Next Date: TBA</p>
-
-<p>Cutoff Date: TBA</p>
+I"z<table>
+  <tbody>
+    <tr>
+      <td>Next Date: TBA</td>
+      <td>Cutoff Date: TBA</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr />
 
@@ -10,8 +14,8 @@
   <li>Only available for pick-up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.</li>
   <li>Purchasing individual cinnamon rolls is not available.</li>
   <li>Rolls can be ordered in a box of either 4 Regular rolls or 6 Mini rolls.</li>
-  <li>Mixing Regular and Mini rolls in a single box is not available.</li>
-  <li>You can however, mix and match any flavour within a box.</li>
+  <li>Mixing Regular and Mini rolls in a single box is not available. You can however, mix and match any flavour within a box.</li>
+  <li></li>
 </ul>
 
 <h2 id="allergens">Allergens</h2>

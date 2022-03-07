@@ -1,13 +1,10 @@
 ---
 layout: page
-title: 
+title: "Order Status: CLOSED"
 permalink: /order
 ---
 
-## Order Status: CLOSED
-Next Date: TBA
-
-Cutoff Date: TBA
+Next Date: TBA | Cutoff Date: TBA
 
 ---
 
@@ -15,8 +12,7 @@ Cutoff Date: TBA
 - Only available for pick-up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.
 - Purchasing individual cinnamon rolls is not available. 
 - Rolls can be ordered in a box of either 4 Regular rolls or 6 Mini rolls.
-- Mixing Regular and Mini rolls in a single box is not available.
-- You can however, mix and match any flavour within a box. 
+- Mixing Regular and Mini-size rolls in a single box is not available. You can, however, mix and match flavours of the same size for a box. 
 
 ## Allergens
 All rolls are vegan and dairy-free. Due to the baking process, we cannot guarantee a nut free environment. If you or your recipient have a severe allergy, please order at your own discretion. Please DM for more information [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) on Instagram
