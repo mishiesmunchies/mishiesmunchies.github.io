@@ -21,12 +21,14 @@ Cutoff Date: TBA
 ## Allergens
 All rolls are vegan and dairy-free. Due to the baking process, we cannot guarantee a nut free environment. If you or your recipient have a severe allergy, please order at your own discretion. Please DM for more information [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) on Instagram
 
+---
+
 ## How To Order
 1. Fill out the form below and submit it.
 2. You will receive an order confirmation within 24 hours for payment process and pick-up information.
 3. Pick up your order on selected date and time.
 4. Enjoy!
 
-#### Thank you for ordering! Hoping to spread the <3 and happiness to everyone!
+#### Thank you for your support! Hoping to spread the <3 and happiness to everyone!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuDx8gzm7VhwqWfyYDL8pve3tsZaDPJ70bwes-9EZ683i2RQ/viewform?embedded=true" width="640" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
