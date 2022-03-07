@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Order
+title: 
 permalink: /order
 ---
 
-## Status: CLOSED
+## Order Status: CLOSED
 Next Date: TBA
 
 Cutoff Date: TBA
