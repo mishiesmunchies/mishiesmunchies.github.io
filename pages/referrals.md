@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /referral
+permalink: /referrals
 ---
 
 <img class="menu-img" 

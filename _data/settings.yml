@@ -11,7 +11,7 @@ menu:
 - {name: 'Announcements',      url: 'announcements'}
 - {name: 'Blog',               url: 'blog'}
 - {name: 'About',              url: 'about'}
-- {name: 'Referral',           url: 'referral'}
+- {name: 'Referrals',          url: 'referrals'}
 - {name: 'Menu',               url: 'menu'}
 - {name: 'Order',              url: 'order'}
 
