@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Announcements
+title: announcements
 category: announcements
 permalink: /announcements
 ---
