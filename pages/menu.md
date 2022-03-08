@@ -4,7 +4,8 @@ title:
 permalink: /menu
 ---
 
-<img class="menu-img" src="../assets/img/menu.svg"
+<img class="menu-img" 
+     src="../assets/img/menu.svg"
      alt="Menu"/>
 
 ## Original
