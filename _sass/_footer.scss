@@ -11,6 +11,12 @@
   padding: 0px 10px 0px;
   text-decoration: none;
 }
+
+.footer a:hover {
+  transition: .5s ease;
+  color: #DD8964;
+}
+
 @media (max-width: $container-width) {
   .footer {
     background: white;
