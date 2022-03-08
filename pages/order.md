@@ -20,7 +20,7 @@ Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay
 - Mixing Regular and Mini-size rolls in a single box is not available. You can, however, mix and match flavours of the same size for a box. 
 
 ## Allergens
-All rolls are vegan and dairy-free. Due to the baking process, we cannot guarantee a nut-free environment. If you have a severe allergy, please order at your own discretion. Please DM on Instagram for more information [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/)
+All rolls are vegan and dairy-free. Due to the baking process, we cannot guarantee a nut-free environment. If you have a severe allergy, please order at your own discretion. Message [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) on Instagram for more information. 
 
 ---
 

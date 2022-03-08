@@ -8,9 +8,9 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Home',               url: ''}
+- {name: 'About',              url: 'about'}
 - {name: 'Announcements',      url: 'announcements'}
 - {name: 'Blog',               url: 'blog'}
-- {name: 'About',              url: 'about'}
 - {name: 'Referrals',          url: 'referrals'}
 - {name: 'Menu',               url: 'menu'}
 - {name: 'Order',              url: 'order'}

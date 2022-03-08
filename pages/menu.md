@@ -26,4 +26,6 @@ Topped with a sweet glaze made with organic vanilla bean seeds from Madagascar. 
 ## Pizza
 Packed with tomato sauce, spices, and green onions, these rolls will be perfect as an afternoon snack or the appetizer before dinner. If you like pizza, you will definitely enjoy this one!
 
-Interested in ordering? Check our [Order](order) page for more details!
+---
+
+Interested in ordering? Check our [Order page](order) for more details!
