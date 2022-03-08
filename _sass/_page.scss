@@ -3,3 +3,13 @@
   display: block;
   margin: 5px auto 10px;
 }
+
+.menu-img {
+  width: 55%;
+}
+
+@media (max-width: 500px) {
+  .menu-img {
+    width: 90%;
+  }
+}
