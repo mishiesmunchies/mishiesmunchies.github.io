@@ -18,13 +18,13 @@ Next Date: TBA | Cutoff Date: TBA
 - Mixing Regular and Mini-size rolls in a single box is not available. You can, however, mix and match flavours of the same size for a box. 
 
 ## Allergens
-All rolls are vegan and dairy-free. Due to the baking process, we cannot guarantee a nut free environment. If you or your recipient have a severe allergy, please order at your own discretion. Please DM for more information [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) on Instagram
+All rolls are vegan and dairy-free. Due to the baking process, we cannot guarantee a nut-free environment. If you have a severe allergy, please order at your own discretion. Please DM on Instagram for more information [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/)
 
 ---
 
 ## How To Order
 1. Fill out the form below and submit it.
-2. You will receive an order confirmation within 24 hours for payment process and pick-up information.
+2. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
 3. Pick up your order on selected date and time.
 4. Enjoy!
 
