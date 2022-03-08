@@ -215,7 +215,7 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 .fa-envelope { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
 
-.fa-envelope:hover { color: #f39c12; }
+.fa-envelope:hover { color: #DD8964; }
 
 .fa-twitter { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
 
@@ -223,7 +223,7 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 .fa-instagram { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
 
-.fa-instagram:hover { color: #375989; }
+.fa-instagram:hover { color: #DD8964; }
 
 .fa-github { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
 
@@ -255,6 +255,6 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 .fa-rss-square { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
 
-.fa-rss-square:hover { color: #ff6600; }
+.fa-rss-square:hover { color: #DD8964; }
 
 /*# sourceMappingURL=main.css.map */
