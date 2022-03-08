@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mishiesmunchies.github.io is LIVE!!!"
+title: "mishiesmunchies.github.io is live!"
 author: "Michelle Luong"
 categories: blog, announcements
 tags: [blog, announcements]
