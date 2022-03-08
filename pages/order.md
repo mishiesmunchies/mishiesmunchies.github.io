@@ -9,6 +9,8 @@ permalink: /order
 ## Order Status: CLOSED
 Next Date: TBA | Cutoff Date: TBA
 
+Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay updated on the next order date!
+
 ---
 
 ## Order Information

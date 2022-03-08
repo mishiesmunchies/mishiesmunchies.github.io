@@ -154,11 +154,11 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 .post-preview .post-entry { width: 100%; }
 
-.post-preview .post-image { float: right; margin-left: 0.625rem; height: 12rem; width: 12rem; transition: .5s ease; }
+.post-preview .post-image { float: right; margin-left: 0.625rem; height: 10rem; width: 10rem; transition: .5s ease; }
 
 .post-preview .post-image:hover { opacity: 0.5; }
 
-.post-preview .post-image img { max-height: 100%; max-width: 100%; }
+.post-preview .post-image img { max-height: 80%; max-width: 80%; }
 
 .post-preview .post-image-short { margin-top: -2.1875rem; }
 
