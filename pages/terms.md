@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: terms
 permalink: /terms
 ---
-
-<img class="page-banner" src="../assets/img/terms-banner.svg">
 
 ## Terms & Conditions
 

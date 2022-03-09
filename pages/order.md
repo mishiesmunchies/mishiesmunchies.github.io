@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: order
 permalink: /order
 ---
-
-<img class="page-banner" src="../assets/img/order-banner.svg">
 
 ## Order Status: CLOSED
 Next Date: TBA | Cutoff Date: TBA
