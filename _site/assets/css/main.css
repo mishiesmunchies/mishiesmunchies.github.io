@@ -198,6 +198,8 @@ iframe { margin: auto; display: block; }
 
 .note + p:before { content: ""; font-weight: bold; display: block; }
 
+.profile-pic { height: 300px; width: 300px; border-radius: 50%; object-fit: cover; }
+
 .post-content { width: 600px; display: block; margin: 10px auto 10px; }
 
 .post-date { display: block; margin-top: 1rem; margin-bottom: 1rem; color: #9a9a9a; font-size: 0.8rem; }

@@ -58,6 +58,9 @@ iframe {
   display: block;
 }
 
-// .note+p a {
-//   color: white;
-// }
+.profile-pic {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+}
