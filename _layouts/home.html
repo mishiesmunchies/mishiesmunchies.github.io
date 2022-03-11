@@ -5,9 +5,11 @@ title: Home
 
 <img class="page-banner" src="../assets/img/mm-banner.svg">
 
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
+<div class="category-content">
+  {% for post in paginator.posts %}
+    {% include featured-post.html %}
+  {% endfor %}
+</div>
 
 <!-- Pagination links -->
 <div class="pagination">

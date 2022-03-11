@@ -8,7 +8,6 @@ permalink: /referrals
      src="../assets/img/referrals.svg"
      alt="Referrals"/> -->
 
-# Referral Program
 ### Get a free box of cinnamon rolls for every 2 boxes your friends buy!
 1. Refer your friends
 2. Receive a promo code in your email

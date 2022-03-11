@@ -4,8 +4,10 @@ layout: default
 
 <img class="page-banner" src="../assets/img/{{ page.title }}-banner.svg">
 
-{% for post in site.posts %}
-  {% if post.categories contains page.category %}
-    {% include featured-post.html %}
-  {% endif %}
-{% endfor %}
+<div class="category-content">
+  {% for post in site.posts %}
+    {% if post.categories contains page.category %}
+      {% include featured-post.html %}
+    {% endif %}
+  {% endfor %}
+</div>
