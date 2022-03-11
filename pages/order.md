@@ -11,6 +11,9 @@ Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay
 
 ---
 
+<div class="note"></div>
+SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes your friends buy! For more information, read about our [Referrals Program.](referrals)
+
 ## Order Information
 - Only available for pick-up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.
 - Purchasing individual cinnamon rolls is not available. 

@@ -22,6 +22,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.menu-text {
+  margin-left: 1rem;
 }
 
 iframe {
@@ -34,3 +39,25 @@ iframe {
     width: 70vw;
   }
 }
+
+
+.note+p { /*next paragraph after <div class="note"></div>*/
+  padding: 8px 35px 8px 14px;
+  margin-bottom: 20px;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+  border-radius: 4px;
+  color: black;
+  background-color: #a3bd9b;
+  border-color: #a3bd9b;
+  // #dd8964
+}
+
+.note+p:before { 
+  content: "";
+  font-weight: bold;
+  display: block;
+}
+
+// .note+p a {
+//   color: white;
+// }
