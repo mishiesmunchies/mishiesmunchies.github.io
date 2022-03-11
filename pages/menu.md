@@ -8,6 +8,8 @@ permalink: /menu
      src="../assets/img/menu.svg"
      alt="Menu"/> -->
 
+# Cinnamon Rolls
+
 ## Original
 The original cinnamon roll is irresistible. Packed with a sweet cinnamon and brown sugar filling, this fluffy dessert will always leave you wanting more!
 
