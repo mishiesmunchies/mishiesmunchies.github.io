@@ -160,7 +160,7 @@
 }
 @media (max-width: 500px) {
   .post-preview .post-image {
-    display: none;
+    display: block;
   }
   .post-preview .post-image-small {
     display: block;
@@ -180,6 +180,16 @@
 
 .page-banner {
   max-width: 100%;
+}
+
+@media (max-width: 500px) {
+  .page-banner {
+    max-width: unset;
+    width: 95vw;
+    height: 13vh;
+    object-fit: cover;
+    object-position: 50% 100%;
+  }
 }
 
 .category-content {
