@@ -20,7 +20,9 @@
 
 @media (max-width: 500px) {
   .menu-img {
-    width: 90%;
+    max-width: 100%;
+    height: 200px;
+    width: 200px;
   }
 }
 
@@ -33,12 +35,14 @@
 
 @media (max-width: 500px) {
   .menu-row {
+    display: block;
     margin-bottom: 2rem;
   }
 }
 
 .menu-text {
   margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .menu-text h3 {
@@ -51,8 +55,12 @@ iframe {
 }
 
 @media (max-width: 800px) {
-  iframe {
+  .google-form {
     width: 100vw;
+  }
+
+  .post-content iframe {
+    width: 90vw;
   }
 }
 
