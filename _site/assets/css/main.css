@@ -200,7 +200,7 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 iframe { margin: auto; display: block; }
 
-@media (max-width: 800px) { iframe { width: 70vw; } }
+@media (max-width: 800px) { iframe { width: 100vw; } }
 
 .note + p { /*next paragraph after <div class="note"></div>*/ padding: 8px 35px 8px 14px; margin-bottom: 20px; text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5); border-radius: 4px; color: black; background-color: #a3bd9b; border-color: #a3bd9b; }
 
