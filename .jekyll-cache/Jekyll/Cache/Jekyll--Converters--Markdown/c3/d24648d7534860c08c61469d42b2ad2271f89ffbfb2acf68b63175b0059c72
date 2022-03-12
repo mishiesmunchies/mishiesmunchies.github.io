@@ -1,64 +1,59 @@
----
-layout: page
-title: menu
-permalink: /menu
----
-
-<!-- <img class="menu-img" 
+I"	<!-- <img class="menu-img" 
      src="../assets/img/menu.svg"
      alt="Menu"/> -->
 
-<h2 style="text-align: center; margin-bottom: 10px;">Cinnamon Rolls</h2>
+<h2 style="text-align: center;">Cinnamon Rolls</h2>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-original.jpg">
+     <img class="menu-img" src="../assets/img/menu-original.jpg" />
      <div class="menu-text">
-          <h3>Original</h3>
+          <h2>Original</h2>
           The original cinnamon roll is irresistible. Packed with a sweet cinnamon and brown sugar filling, this fluffy dessert will always leave you wanting more! 
      </div>
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-chocolate.jpg">
+     <img class="menu-img" src="../assets/img/menu-chocolate.jpg" />
      <div class="menu-text">
-          <h3>Chocolate Dipped</h3>
+          <h2>Chocolate Dipped</h2>
           Dipped in 70% dark chocolate and topped with almond thins. This combination reminds me of Drumstick ice-cream cones, one of my favourite desserts!
      </div>
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-marshmallow.jpg">
+     <img class="menu-img" src="../assets/img/menu-marshmallow.jpg" />
      <div class="menu-text">
-          <h3>Mishie's Marshmallows</h3>
+          <h2>Mishie's Marshmallows</h2>
           Topped with vegan marshmallows which are browned in the oven to become an incredible layer of gooey yumminess!
      </div>
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-cookies.jpg">
+     <img class="menu-img" src="../assets/img/menu-cookies.jpg" />
      <div class="menu-text">
-          <h3>Cookies & Cream</h3>
+          <h2>Cookies &amp; Cream</h2>
           Topped with sugar glaze and chunks of Oreo’s, this is an amazing dessert to enjoy with a cup of hot chocolate! If you're looking for a bit of crunch, this is the one for you.
      </div>
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-vanilla.jpg">
+     <img class="menu-img" src="../assets/img/menu-vanilla.jpg" />
      <div class="menu-text">
-          <h3>Vanilla Glaze</h3>
+          <h2>Vanilla Glaze</h2>
           Topped with a sweet glaze made with organic vanilla bean seeds from Madagascar. Its rich and infused flavour will make you wonder how this amazing dessert could possibly be vegan!
      </div>
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-pizza.jpg">
+     <img class="menu-img" src="../assets/img/menu-pizza.jpg" />
      <div class="menu-text">
-          <h3>Pizza</h3>
+          <h2>Pizza</h2>
           Packed with tomato sauce, spices, and green onions, these rolls will be perfect as an afternoon snack or the appetizer before dinner. If you like pizza, you will definitely enjoy this one!
      </div>
 </div>
 
----
+<hr />
 
-## Order
-Interested in ordering? Check our [Order page](order) for more details!
+<h2 id="order">Order</h2>
+<p>Interested in ordering? Check our <a href="order">Order page</a> for more details!</p>
+:ET

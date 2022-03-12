@@ -4,6 +4,12 @@
   margin: 5px auto 10px;
 }
 
+@media (max-width: 500px) {
+  .page-content {
+    max-width: 100%;
+  }
+}
+
 .menu-img {
   height: 100px;
   width: 100px;
@@ -25,8 +31,18 @@
   margin-bottom: 1rem;
 }
 
+@media (max-width: 500px) {
+  .menu-row {
+    margin-bottom: 2rem;
+  }
+}
+
 .menu-text {
   margin-left: 1rem;
+}
+
+.menu-text h3 {
+  margin-top: 0px;
 }
 
 iframe {

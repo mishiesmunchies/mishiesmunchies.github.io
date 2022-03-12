@@ -186,3 +186,9 @@
   width: 75%;
   margin: auto;
 }
+
+@media (max-width: 500px) {
+  .category-content {
+    width: 100%;
+  }
+}
