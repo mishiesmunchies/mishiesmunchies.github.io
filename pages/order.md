@@ -15,7 +15,7 @@ Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay
 SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes your friends buy! For more information, read about our [Referrals Program.](referrals)
 
 <div class="note"></div>
-PROMOTION - For a limited time only, get 25% off all orders of Mini rolls! Regular-sized rolls are excluded from this promotion.
+SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! Regular-sized rolls are excluded from this promotion.
 
 ## Order Information
 - Only available for pick-up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.
