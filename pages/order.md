@@ -39,4 +39,4 @@ PROMOTION - For a limited time only, get 25% off all orders of Mini rolls! Regul
 
 #### Thank you for your support! Hoping to spread the <3 and happiness to everyone!
 
-<iframe class="google-form" src="https://docs.google.com/forms/d/e/1FAIpQLSfuDx8gzm7VhwqWfyYDL8pve3tsZaDPJ70bwes-9EZ683i2RQ/viewform?embedded=true" width="640" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe class="google-form" src="https://docs.google.com/forms/d/e/1FAIpQLSfuDx8gzm7VhwqWfyYDL8pve3tsZaDPJ70bwes-9EZ683i2RQ/viewform?embedded=true" width="800" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

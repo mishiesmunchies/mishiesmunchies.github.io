@@ -102,9 +102,19 @@ iframe {
   display: block;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 500px) {
   .google-form {
     width: 100vw;
+  }
+
+  .post-content iframe {
+    width: 90vw;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 1024px) {
+  .google-form {
+    width: 70vw;
   }
 
   .post-content iframe {
