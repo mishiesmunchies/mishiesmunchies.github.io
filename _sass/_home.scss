@@ -133,9 +133,10 @@
   opacity: 0.5;
 }
 .post-preview .post-image img {
-  max-height: 80%;
-  max-width: 80%;
+  height: 7rem;
+  width: 7rem;
   margin-right: 0px;
+  object-fit: cover;
 }
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
