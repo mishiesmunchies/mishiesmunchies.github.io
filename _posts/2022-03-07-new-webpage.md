@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our website is live!"
+title: "Our Website is Live!"
 author: "Michelle Luong"
 categories: blog, news
 tags: [blog, news]
