@@ -17,12 +17,12 @@ Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay
 SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes your friends buy! For more information, read about our [Referrals Program.](referrals)
 
 <div class="note"></div>
-SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! Regular-sized rolls are excluded from this promotion.
+SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! Regular-size rolls are excluded from this promotion.
 
 ## How To Order
 1. Look at our [Menu](menu) and find the rolls you want!
 2. Rolls can be ordered in boxes of either 4 Regular-size rolls or 6 Mini rolls. Purchasing individual cinnamon rolls is not available. 
-3. Mixing Regular-size and Mini rolls in a single box is not available. You can, however, mix and match flavours of the same size in a box. 
+3. Combining Regular-size and Mini rolls in a single box is not available. You can, however, mix and match flavours of the same size in a box. 
 4. Once you have decided on what to order, fill out and submit the form below.
 5. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
 6. Pick up your order on the selected date and time. Only available for pick-up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.
