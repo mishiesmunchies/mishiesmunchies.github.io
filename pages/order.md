@@ -21,7 +21,7 @@ SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! R
 
 ## How To Order
 1. Check our [Menu](menu).
-2. Fill out and submit the order form below.
+2. Fill out the order form below.
 3. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
 4. Pick up your order on the specified date.
 5. Enjoy!
