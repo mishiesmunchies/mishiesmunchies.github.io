@@ -5,7 +5,7 @@ permalink: /order
 ---
 
 ## Order Status: OPEN
-Pickup Date: Monday, March 21
+Pick-up Date: Monday, March 21
 
 Last Day to Order: Saturday, March 19
 
@@ -20,13 +20,13 @@ SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes your friends 
 SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! Regular-size rolls are excluded from this promotion.
 
 ## How To Order
-1. Look at our [Menu](menu) and find the rolls you want!
-2. Rolls can be ordered in boxes of either 4 Regular-size rolls or 6 Mini rolls. Purchasing individual cinnamon rolls is not available. 
-3. Combining Regular-size and Mini rolls in a single box is not available. You can, however, mix and match flavours of the same size in a box. 
-4. Once you have decided on what to order, fill out and submit the form below.
-5. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
-6. Pick up your order on the selected date and time. Only available for pick-up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.
-7. Enjoy!
+1. Check our [Menu](menu).
+2. Fill out and submit the order form below.
+3. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
+4. Pick up your order on the specified date.
+5. Enjoy!
+
+For more information, check out the Ordering section in our [FAQ](faq).
 
 ## Allergens
 - All rolls are vegan and dairy-free. 
