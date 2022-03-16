@@ -111,10 +111,19 @@ table {
   width: 100%;
 }
 
-table, th, td {
-  border: 1px solid black;
-}
 th, td {
-  padding: 15px;
+  padding: 5px;
   text-align: left;
+  border: none;
+}
+
+@media (max-width: 767px) {
+  th, td {
+    padding: 1px;
+    padding-bottom: 5px;
+  }
+
+  table {
+    margin-bottom: 10px;
+  }
 }

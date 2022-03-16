@@ -1,0 +1,80 @@
+I"{<table cellspacing="0" cellpadding="0">
+And in css:
+
+table {border: none;}
+EDIT: As iGEL noted, this solution is officially deprecated (still works though), so if you are starting from scratch, you should go with the jnpcl's border-collapse solution.
+
+I actually quite dislike this change so far (don't work with tables that often). It makes some tasks bit more complicated. E.g. when you want to include two different borders in same place (visually), while one being TOP for one row, and second being BOTTOM for other row. They will collapse (= only one of them will be shown). Then you have to study how is border's "priority" calculated and what border styles are "stronger" (double vs. solid etc.).
+
+I did like this:
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="first">first row</td>
+  </tr>
+  <tr>
+    <td class="second">second row</td>
+  </tr>
+</table>
+
+
+One box: $14  Two boxes: $25  Three boxes: $37
+
+Each box has 4 Regular-size rolls or 6 Mini rolls.
+
+All flavours are available as Regular-size or Mini rolls. 
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-original.jpg" />
+     <div class="menu-text">
+          <h3>Original</h3>
+          The original cinnamon roll is irresistible. Packed with a sweet cinnamon and brown sugar filling, this fluffy dessert will always leave you wanting more! 
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-chocolate.jpg" />
+     <div class="menu-text">
+          <h3>Chocolate Dipped</h3>
+          Dipped in 70% dark chocolate and topped with almond thins. This combination reminds me of Drumstick ice-cream cones, one of my favourite desserts!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-marshmallow.jpg" />
+     <div class="menu-text">
+          <h3>Mishie's Marshmallows</h3>
+          Topped with vegan marshmallows which are browned in the oven to become an incredible layer of gooey yumminess!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-cookies.jpg" />
+     <div class="menu-text">
+          <h3>Cookies &amp; Cream</h3>
+          Topped with sugar glaze and chunks of Oreo’s, this is an amazing dessert to enjoy with a cup of hot chocolate! If you're looking for a bit of crunch, this is the one for you.
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-vanilla.jpg" />
+     <div class="menu-text">
+          <h3>Vanilla Glaze</h3>
+          Topped with a sweet glaze made with organic vanilla bean seeds from Madagascar. Its rich and infused flavour will make you wonder how this amazing dessert could possibly be vegan!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-pizza.jpg" />
+     <div class="menu-text">
+          <h3>Pizza</h3>
+          Packed with tomato sauce, spices, and green onions, these rolls will be perfect as an afternoon snack or the appetizer before dinner. If you like pizza, you will definitely enjoy this one!
+     </div>
+</div>
+
+---
+
+## Order
+Interested in ordering? Check our [Order page](order) for more details!
+</table>
+:ET

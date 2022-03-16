@@ -4,8 +4,6 @@ title: menu
 permalink: /menu
 ---
 
-All flavours are available as Regular-size or Mini rolls. 
-
 <div class="menu-row">
      <img class="menu-img" src="../assets/img/menu-original.jpg">
      <div class="menu-text">
@@ -53,6 +51,8 @@ All flavours are available as Regular-size or Mini rolls.
           Packed with tomato sauce, spices, and green onions, these rolls will be perfect as an afternoon snack or the appetizer before dinner. If you like pizza, you will definitely enjoy this one!
      </div>
 </div>
+
+<img class="full-menu" src="../assets/img/menu-page.svg">
 
 ---
 

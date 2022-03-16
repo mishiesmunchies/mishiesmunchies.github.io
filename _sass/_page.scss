@@ -42,11 +42,23 @@
 }
 
 .menu-text {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
 
+@media (max-width: 767px) {
+  .menu-text {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
 }
 
 .menu-text h3 {
   margin-top: 0px;
+}
+
+.full-menu {
+  width: 100%;
 }
 
 // About me page
