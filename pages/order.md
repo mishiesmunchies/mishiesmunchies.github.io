@@ -4,17 +4,17 @@ title: order
 permalink: /order
 ---
 
-## Order Status: OPEN
-Pick-up Date: Monday, March 21
+## Order Status: CLOSED
+Pick-up Date: TBA
 
-Last Day to Order: Saturday, March 19
+Last Day to Order: TBA
 
 Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay updated!
 
 ---
 
 <div class="note"></div>
-SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes your friends buy! For more information, read about our [Referrals Program.](referrals)
+SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
 <div class="note"></div>
 SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! Regular-size rolls are excluded from this promotion.

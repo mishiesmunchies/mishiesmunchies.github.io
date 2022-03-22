@@ -4,7 +4,7 @@ title: referrals
 permalink: /referrals
 ---
 
-### Get a free box of cinnamon rolls for every 2 boxes your friends buy!
+### Get a free box of cinnamon rolls for every 2 boxes bought using your referral!
 1. Refer your friends
 2. Receive a promo code in your email
 3. Redeem a free box of cinnamon rolls!
