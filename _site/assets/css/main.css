@@ -106,7 +106,20 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 /* Responsiveness with a dropdown menu */
 @media (min-width: 1100px) { .dropbtn { display: none; } .dropdown-content { display: none; } }
 
-@media (max-width: 1100px) { .menu-list { display: none; } .site-title { padding-right: 0.25rem; } .dropbtn { background-color: white; color: black; padding: 16px; margin-top: 4px; font-size: 16px; border: none; cursor: pointer; } .dropdown { position: relative; display: inline-block; } .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); z-index: 1; } .dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block; } .dropdown-content a:hover { background-color: #f1f1f1; } .dropdown:hover .dropdown-content { display: block; } .dropdown:hover .dropbtn { background-color: #f1f1f1; } }
+@media (max-width: 1100px) { .menu-list { display: none; } .site-title { padding-right: 0.25rem; } .dropbtn { background-color: white; color: black; padding: 16px; margin-top: 4px; font-size: 16px; border: none; cursor: pointer; } .dropdown { position: relative; display: inline-block; } .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); z-index: 1; } .dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block; text-align: center; } .dropdown-content a:hover { background-color: #f1f1f1; } .dropdown:hover .dropdown-content { display: block; } .dropdown:hover .dropbtn { background-color: #f1f1f1; } }
+
+.dropdown-content a.button-5 { color: white; }
+
+/* CSS */
+.button-5 { align-items: center; background-clip: padding-box; background-color: #a3bd9b; border: 1px solid transparent; border-radius: .25rem; box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-flex; font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 16px; font-weight: 600; justify-content: center; line-height: 1.25; margin: 0; padding: calc(.6rem - 1px) calc(1.5rem - 1px); position: relative; text-decoration: none; transition: all 250ms; user-select: none; -webkit-user-select: none; touch-action: manipulation; vertical-align: baseline; width: auto; }
+
+@media (max-width: 767px) { .button-5 { width: 100%; } }
+
+.button-5:hover, .button-5:focus { background-color: #6fa25c; box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px; }
+
+.button-5:hover { transform: translateY(-1px); }
+
+.button-5:active { background-color: #6fa25c; box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px; transform: translateY(0); }
 
 .featured-post { height: 50px; margin: 5px 10px 10px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; }
 

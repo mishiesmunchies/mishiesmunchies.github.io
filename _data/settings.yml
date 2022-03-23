@@ -14,7 +14,6 @@ menu:
 - {name: 'Referrals',          url: 'referrals'}
 - {name: 'FAQ',                url: 'faq'}
 - {name: 'Menu',               url: 'menu'}
-- {name: 'Order',              url: 'order'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
