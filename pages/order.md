@@ -16,9 +16,6 @@ Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay
 <div class="note"></div>
 SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
-<div class="note"></div>
-SPECIAL OFFER - For a limited time only, get 25% off all orders of Mini rolls! Regular-size rolls are excluded from this promotion.
-
 ## How To Order
 1. Check our [Menu](menu).
 2. Fill out the order form below.
