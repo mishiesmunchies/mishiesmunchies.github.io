@@ -4,10 +4,10 @@ title: order
 permalink: /order
 ---
 
-## Order Status: CLOSED
-Pick-up Date: TBA
+## Order Status: OPEN
+Pick-up Date: Wednesday, April 6, 2022
 
-Last Day to Order: TBA
+Last Day to Order: Tuesday, April 5, 2022
 
 Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay updated!
 

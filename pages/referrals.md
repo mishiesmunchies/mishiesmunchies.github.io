@@ -6,7 +6,7 @@ permalink: /referrals
 
 ### Get a free box of cinnamon rolls for every 2 boxes bought using your referral!
 1. Refer your friends
-2. Receive a promo code in your email
+2. Receive a promo code
 3. Redeem a free box of cinnamon rolls!
 
 The Referrals Program ends July 31, 2022. Be sure to spread the word about [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) before then!
