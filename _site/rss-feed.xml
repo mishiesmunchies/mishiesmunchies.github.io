@@ -7,6 +7,20 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Pizza Party</title>
+				
+					<dc:creator>Michelle Luong</dc:creator>
+				
+				
+					<description>&lt;p&gt;You can’t have a party without pizza! What better to bring to a potluck than Mini vegan pizza rolls?&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 30 Mar 2022 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/pizza-party</link>
+				<guid isPermaLink="true">http://localhost:4000/pizza-party</guid>
+			</item>
+		
+			<item>
 				<title>Cinn Rolls By The Ocean</title>
 				
 					<dc:creator>Michelle Luong</dc:creator>
