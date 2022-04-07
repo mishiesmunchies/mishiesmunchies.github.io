@@ -42,12 +42,12 @@
    margin: 0;
    list-style: none;
  } */
- a,
+ /* a,
  a:active,
  a:focus,
  a:active {
    text-decoration: none !important;
- }
+ } */
  .section-title {
    margin-bottom: 70px;
  }
@@ -64,7 +64,7 @@
  /*--
      Header Start
  --*/
- header {
+ /* header {
    background: #fff;
    padding: 20px 0;
  }
@@ -89,7 +89,7 @@
  }
  font header .navbar-default .navbar-nav li a:hover {
    color: #000;
- }
+ } */
  /*---------------------------------------------
                      Index Start
  -----------------------------------------------*/
@@ -97,7 +97,7 @@
      Slider Start
  --*/
  #slider {
-   background: url("../img/slider-bg.jpg") no-repeat;
+   background: url("../img/cinn-boxes.jpeg") no-repeat;
    background-size: cover;
    background-attachment: fixed;
    background-position: 10% 0%;
@@ -113,19 +113,20 @@
    right: 0;
    width: 100%;
    height: 100%;
-   background: linear-gradient(to left, #8b86a3, #322e40);
-   opacity: 0.8;
+   background: #f4be9b;
+   opacity: 0;
  }
  #slider .block {
-   color: #E3E3E4;
+   color: #FFFFFF;
  }
  #slider .block h1 {
    font-family: 'Roboto', sans-serif;
-   font-weight: 100;
-   font-size: 45px;
+   font-size: 9vh;
    line-height: 60px;
-   letter-spacing: 10px;
+   letter-spacing: 7px;
    padding-bottom: 45px;
+   text-align: center;
+   text-shadow: 2px 2px 3px #000000;
  }
  #slider .block p {
    font-size: 23px;
@@ -231,7 +232,7 @@
      Feature Start
  --*/
  #feature {
-   background: url("../img/cinn-box.jpg");
+   background: url("../img/home-bicycle.jpg");
    background-position: 50% 94px;
    width: 100%;
    display: block;
