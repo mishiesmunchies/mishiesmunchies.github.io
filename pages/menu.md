@@ -39,8 +39,6 @@ permalink: /menu
 </div>
 
 ## Specialty Rolls
-Specialty Rolls not available for mix & match.
-
 <div class="menu-row">
      <img class="menu-img" src="../assets/img/menu-pizza.jpg">
      <div class="menu-text">

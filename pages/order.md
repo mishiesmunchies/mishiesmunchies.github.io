@@ -35,4 +35,6 @@ For more information, check out the Ordering section in our [FAQ](faq).
 
 #### Thank you for your support! Hoping to spread the love and happiness to everyone!
 
+<img class="full-menu" src="../assets/img/menu-page.svg">
+
 <iframe class="google-form" src="https://docs.google.com/forms/d/e/1FAIpQLSfuDx8gzm7VhwqWfyYDL8pve3tsZaDPJ70bwes-9EZ683i2RQ/viewform?embedded=true" width="800" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

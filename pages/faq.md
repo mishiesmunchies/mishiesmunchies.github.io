@@ -10,10 +10,7 @@ permalink: /faq
 *The cinnamon rolls are available for pick up in Vancouver (near 29th skytrain station). Exact location will be provided upon ordering.*
 
 ### Can I order individual cinnamon rolls?
-*Sorry, purchasing individual cinnamon rolls is not available. Rolls can be ordered in boxes 6 Mini rolls.*
-
-### Can I combine different flavours in a single box?
-*Yes! For Cinnamon Rolls, you can mix & match flavours. Specialty Rolls are not available for mix & match.*
+*Sorry, purchasing individual cinnamon rolls is not available. Please look at the menu for the box types.*
 
 --- 
 
