@@ -7,16 +7,13 @@ permalink: /faq
 ## Ordering
 
 ### Where do I pick up the cinnamon rolls?
-*The cinnamon rolls are available for pick up in Vancouver (near Rupert skytrain station). Exact location will be provided upon ordering.*
+*The cinnamon rolls are available for pick up in Vancouver (near 29th skytrain station). Exact location will be provided upon ordering.*
 
 ### Can I order individual cinnamon rolls?
-*Sorry, purchasing individual cinnamon rolls is not available. Rolls can be ordered in boxes of either 4 Regular-size rolls or 6 Mini rolls.*
-
-### Can I combine different size rolls in a single box?
-*Sorry, combining Regular-size and Mini rolls in a single box is not available.*
+*Sorry, purchasing individual cinnamon rolls is not available. Rolls can be ordered in boxes 6 Mini rolls.*
 
 ### Can I combine different flavours in a single box?
-*Yes! You can mix and match flavours of the same size in a box.*
+*Yes! For Cinnamon Rolls, you can mix & match flavours. Specialty Rolls are not available for mix & match.*
 
 --- 
 
