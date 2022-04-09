@@ -5,9 +5,9 @@ permalink: /order
 ---
 
 ## Order Status: OPEN
-Pick-up Date: Wednesday, April 6, 2022
+Pick-up Date: Friday, April 15, 2022
 
-Last Day to Order: Tuesday, April 5, 2022
+Last Day to Order: Thursday, April 14, 2022
 
 Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay updated!
 
@@ -34,5 +34,7 @@ For more information, check out the Ordering section in our [FAQ](faq).
 ---
 
 #### Thank you for your support! Hoping to spread the love and happiness to everyone!
+
+<img class="full-menu" src="../assets/img/menu-page.svg">
 
 <iframe class="google-form" src="https://docs.google.com/forms/d/e/1FAIpQLSfuDx8gzm7VhwqWfyYDL8pve3tsZaDPJ70bwes-9EZ683i2RQ/viewform?embedded=true" width="800" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
