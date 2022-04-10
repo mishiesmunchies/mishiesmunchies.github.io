@@ -97,7 +97,7 @@
      Slider Start
  --*/
  #slider {
-   background: url("../img/cinn-boxes.jpeg") no-repeat;
+   background: url("../img/mishies-banner.svg") no-repeat;
    background-size: cover;
    background-attachment: fixed;
    background-position: 10% 0%;
@@ -126,7 +126,7 @@
    letter-spacing: 7px;
    padding-bottom: 45px;
    text-align: center;
-   text-shadow: 2px 2px 3px #000000;
+   /* text-shadow: 2px 2px 3px #000000; */
  }
  #slider .block p {
    font-size: 23px;
