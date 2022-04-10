@@ -79,7 +79,7 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 @media (max-width: 1200px) { .container { width: 95vw; margin-left: auto; margin-right: auto; } .content-wrapper { padding-top: 66px; margin: auto; display: block; width: 95vw; } }
 
-.footer { background: white; color: black; text-align: center; min-height: 56px; line-height: 45px; width: 1200px; }
+.footer { background: white; color: black; text-align: center; min-height: 56px; line-height: 45px; }
 
 .footer a { color: black; padding: 0px 10px 0px; text-decoration: none; }
 

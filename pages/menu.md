@@ -48,8 +48,3 @@ permalink: /menu
 </div>
 
 <img class="full-menu" src="../assets/img/menu-page.svg">
-
----
-
-## Order
-Interested in ordering? Check our [Order page](order) for more details!

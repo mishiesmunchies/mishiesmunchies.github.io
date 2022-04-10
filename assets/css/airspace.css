@@ -1,0 +1,236 @@
+.home-section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.home-logo {
+  max-width: 250px;
+}
+
+.home-container {
+  display: flex;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.home-container .flex-content {
+  flex: 8;
+}
+
+.home-container .flex-mid {
+  flex: 1;
+}
+
+.home-container .flex-logo {
+  flex: 2;
+}
+
+
+#feature .blog-container {
+  display: flex;
+  justify-content: flex-end
+ }
+
+ #feature .blog-container .flex-left {
+  flex: 5;
+ }
+
+ #feature .blog-container .flex-content {
+  flex: 2;
+ }
+
+ #feature .blog-container .flex-right {
+  flex: 1;
+ }
+
+
+@media only screen and (max-width: 767px) {
+  .home-container {
+    display: block;
+    margin: auto;
+  }
+
+  .home-section {
+    margin-top: 30px;
+    margin-bottom: 30px
+  }
+
+  #feature .blog-container .flex-left {
+    flex: 4;
+  }
+
+  #feature .blog-container .flex-content {
+    flex: 5;
+  }
+}
+
+.ig-container {
+  text-align: center;
+}
+
+/*--
+     Slider Start
+ --*/
+ #slider {
+   background: url("../img/mishies-banner.svg") no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: 10% 0%;
+   padding: 200px 0 280px 0;
+   position: relative;
+ }
+ #slider:before {
+   content: "";
+   position: absolute;
+   left: 0;
+   top: 0;
+   bottom: 0;
+   right: 0;
+   width: 100%;
+   height: 100%;
+   background: #f4be9b;
+   opacity: 0;
+ }
+ #slider .block {
+   color: #FFFFFF;
+ }
+ #slider .block h1 {
+   font-family: 'Brixton TC';
+   font-size: 9vh;
+   line-height: 60px;
+   letter-spacing: 7px;
+   padding-bottom: 45px;
+   text-align: center;
+   /* text-shadow: 2px 2px 3px #000000; */
+ }
+ #slider .block p {
+   font-size: 23px;
+   line-height: 40px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   letter-spacing: 3px;
+ }
+ /*--
+     wrapper Start
+ --*/
+ #intro {
+   padding: 100px 0;
+ }
+ #intro .block h2 {
+   padding-top: 35px;
+   line-height: 27px;
+   margin: 0;
+ }
+ #intro .block p {
+   color: #7B7B7B;
+   padding-top: 20px;
+ }
+ #intro .block img {
+   padding-left: 40px;
+   width: 100%;
+ }
+ #intro .section-title {
+   margin-bottom: 0px;
+ }
+ #intro .section-title p {
+   padding-top: 20px;
+ }
+
+ /*--
+     call-to-action Start
+ --*/
+ #call-to-action {
+   background: url("../img/cinn-box.jpg") no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   padding: 70px 0px;
+   position: relative;
+   text-align: center;
+   color: #fff;
+ }
+ #call-to-action:before {
+   content: "";
+   position: absolute;
+   left: 0;
+   right: 0;
+   top: 0;
+   bottom: 0;
+   width: 100%;
+   height: 100%;
+   background: #1d192c;
+   opacity: 0.8;
+ }
+ #call-to-action h2 {
+   padding-bottom: 20px;
+   line-height: 33px;
+   margin: 0;
+   font-size: 30px;
+ }
+ #call-to-action p {
+   font-size: 14px;
+   line-height: 1.6;
+ }
+ #call-to-action .btn-call-to-action {
+   padding: 15px 35px;
+   border: none;
+   background-color: #fff;
+   font-size: 15px;
+   color: #333333;
+   margin-top: 30px;
+ }
+
+ /*--
+     Feature Start
+ --*/
+ #feature {
+   background: url("../img/home-bicycle.jpg");
+   background-position: 50% 94px;
+   width: 100%;
+   display: block;
+   position: relative;
+   overflow: visible;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-color: #fff;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   -webkit-backface-visibility: hidden;
+   backface-visibility: hidden;
+   padding: 100px 0;
+ }
+ #feature h2 {
+   font-size: 28px;
+   font-weight: 600;
+   margin-bottom: 30px;
+ }
+ #feature p {
+   color: #8d8f92;
+   margin-bottom: 20px;
+ }
+ #feature .btn-view-works {
+   background: #655E7A;
+   color: #fff;
+   padding: 10px 20px;
+ }
+ /*--
+     content Start
+ --*/
+ #testimonial {
+   padding: 100px 0;
+   text-align: center;
+ }
+ #testimonial .block h2 {
+   line-height: 27px;
+   color: #5C5C5C;
+   padding-top: 110px;
+ }
+ #testimonial .block p {
+   padding-top: 50px;
+   color: #7B7B7B;
+ }
