@@ -16,6 +16,11 @@ px      68    160    252    344    436    528    620    712    */
     /*---------------------------------------------
                       Index Start 
   -----------------------------------------------*/
+
+    #slider .block h1 {
+      line-height: 120px;
+    }
+
     /*--
       wrapper Start 
   --*/
@@ -162,15 +167,6 @@ px      68    160    252    344    436    528    620    712    */
     /*---------------------------------------------
                       Index Start 
   -----------------------------------------------*/
-    .heading {
-      padding-left: 0px;
-    }
-    h2 {
-      font-size: 18px;
-    }
-    p {
-      font-size: 13px;
-    }
     header .navbar-default .navbar-toggle {
       margin-top: 20px;
       margin-bottom: 20px;
@@ -183,10 +179,13 @@ px      68    160    252    344    436    528    620    712    */
       padding-left: 0px;
     }
     #slider .block h1 {
-      font-size: 20px;
+      font-size: 50px;
     }
     #slider .block p {
       font-size: 13px;
+    }
+    #slider {
+      background-position: 0;
     }
     /*--
       wrapper Start 

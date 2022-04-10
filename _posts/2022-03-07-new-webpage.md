@@ -2,8 +2,8 @@
 layout: post
 title: "Our Website Is Live!"
 author: "Michelle Luong"
-categories: blog, news
-tags: [blog, news]
+categories: blog
+tags: [blog]
 image: mm-logo.png
 ---
 

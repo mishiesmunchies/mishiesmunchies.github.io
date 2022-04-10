@@ -10,7 +10,7 @@ permalink: /faq
 *The cinnamon rolls are available for pick up in Vancouver (near 29th skytrain station). Exact location will be provided upon ordering.*
 
 ### Can I order individual cinnamon rolls?
-*Sorry, purchasing individual cinnamon rolls is not available. Please look at the menu for the box types.*
+*Sorry, purchasing individual cinnamon rolls is not available. Please look at the [menu](menu) for the box types.*
 
 --- 
 
