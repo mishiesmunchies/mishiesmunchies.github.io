@@ -85,7 +85,7 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 .footer a:hover { transition: .5s ease; color: #DD8964; }
 
-@media (max-width: 1200px) { .footer { background: white; color: black; text-align: center; min-height: 56px; line-height: 45px; width: 95vw; } }
+@media (max-width: 1200px) { .footer { background: white; color: black; text-align: center; min-height: 56px; line-height: 45px; } }
 
 .footer-description { display: block; margin-bottom: 1rem; color: #9a9a9a; font-size: 0.8rem; }
 
