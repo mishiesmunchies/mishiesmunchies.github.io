@@ -20,7 +20,7 @@ SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using 
 1. Check our [Menu](menu).
 2. Fill out the order form below.
 3. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
-4. Pick up your order on the specified date.
+4. Pick up your order on the specified date near 29th skytrain station. Exact location will be provided upon ordering.
 5. Enjoy!
 
 For more information, check out the Ordering section in our [FAQ](faq).
