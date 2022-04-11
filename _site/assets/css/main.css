@@ -34,6 +34,8 @@ dd { margin-bottom: .5rem; }
 /* Links */
 a { color: black; text-decoration: none; }
 
+a:hover { color: #DD8964; }
+
 /* Blockquote */
 blockquote { margin: 10px 20px 10px; padding: 0px 15px; border-left: 0.25em solid #ccc; color: #999; line-height: 1.5; }
 
@@ -111,9 +113,9 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 .dropdown-content a.button-5 { color: white; }
 
 /* CSS */
-.button-5 { align-items: center; background-clip: padding-box; background-color: #a3bd9b; border: 1px solid transparent; border-radius: .25rem; box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-flex; font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 16px; font-weight: 600; justify-content: center; line-height: 1.25; margin: 0; padding: calc(.6rem - 1px) calc(1.5rem - 1px); position: relative; text-decoration: none; transition: all 250ms; user-select: none; -webkit-user-select: none; touch-action: manipulation; vertical-align: baseline; width: auto; }
+.button-5 { align-items: center; background-clip: padding-box; background-color: #a3bd9b; border: 1px solid transparent; border-radius: .25rem; box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-flex; font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 16px; font-weight: 600; justify-content: center; line-height: 1.25; margin: 0; padding: calc(.6rem - 1px) calc(1.5rem - 1px); position: relative; text-decoration: none !important; transition: all 250ms; user-select: none; -webkit-user-select: none; touch-action: manipulation; vertical-align: baseline; width: auto; }
 
-@media (max-width: 767px) { .button-5 { width: 100%; } }
+@media (max-width: 767px) { .button-5 { width: 100%; } .menu-order { width: auto; } }
 
 .button-5:hover, .button-5:focus { background-color: #6fa25c; box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px; }
 
@@ -196,6 +198,8 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 .category-content { width: 75%; margin: auto; }
 
 @media (max-width: 500px) { .category-content { width: 100%; } }
+
+.menu-order-link { text-align: center; }
 
 .page-content { max-width: 75%; display: block; margin: 5px auto 10px; }
 

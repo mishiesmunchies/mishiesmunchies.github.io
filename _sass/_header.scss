@@ -122,7 +122,7 @@
   margin: 0;
   padding: calc(.6rem - 1px) calc(1.5rem - 1px);
   position: relative;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: all 250ms;
   user-select: none;
   -webkit-user-select: none;
@@ -134,6 +134,10 @@
 @media (max-width: 767px) {
   .button-5 {
     width: 100%;
+  }
+
+  .menu-order {
+    width: auto;
   }
 }
 
