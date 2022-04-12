@@ -197,17 +197,6 @@ pre code { padding: 0; font-size: 100%; color: inherit; background-color: transp
 
 @media (max-width: 500px) { .category-content { width: 100%; } }
 
-@media (max-width: 550px) { .big-container { display: none; } }
-
-@media (min-width: 550px) { .small-container { display: none; } }
-
-/* Responsive iFrame */
-.responsive-iframe-container.small-container { position: relative; padding-bottom: 70%; padding-top: 30%; height: 0; overflow: hidden; }
-
-.responsive-iframe-container.big-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
-
-.responsive-iframe-container iframe, .responsive-iframe-container object, .responsive-iframe-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
 .menu-order-link { text-align: center; }
 
 .page-content { max-width: 75%; display: block; margin: 5px auto 10px; }
