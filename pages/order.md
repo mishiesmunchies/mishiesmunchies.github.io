@@ -4,10 +4,13 @@ title: order
 permalink: /order
 ---
 
-## Order Status: OPEN
-Pick-up Date: Friday, April 15, 2022
+<div class="note"></div>
+SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
-Last Day to Order: Thursday, April 14, 2022
+## Order Status: OPEN
+Pick-up Date: Tuesday, May 3, 2022
+
+Last Day to Order: Wednesday, May 4, 2022
 
 Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay updated!
 
@@ -20,9 +23,6 @@ Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay
 </div>
 
 ---
-
-<div class="note"></div>
-SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
 ## How To Order
 1. Check our [Menu](menu).
