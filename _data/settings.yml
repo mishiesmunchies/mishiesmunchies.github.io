@@ -9,7 +9,6 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Home',               url: ''}
 - {name: 'About',              url: 'about'}
-- {name: 'Blog',               url: 'blog'}
 - {name: 'Referrals',          url: 'referrals'}
 - {name: 'FAQ',                url: 'faq'}
 - {name: 'Menu',               url: 'menu'}

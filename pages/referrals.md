@@ -9,6 +9,6 @@ permalink: /referrals
 2. Receive a promo code
 3. Redeem a free box of cinnamon rolls!
 
-The Referrals Program ends July 31, 2022. Be sure to spread the word about [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) before then!
+Be sure to spread the word about [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) before then!
 
 For more details, check out the Referrals Program section in our [FAQ](faq).

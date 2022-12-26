@@ -11,8 +11,7 @@ Mishie's Munchies reserves the right to change these terms and conditions at any
 ### Referral Program
 Information on how to participate forms part of these Terms & Conditions. By participating, you agree to be bound by these Terms & Conditions. You must comply with these Terms & Conditions for a promo code to be valid.
 
-- The referral program is a limited time offer that ends on July 31, 2022. All accumulated referrals will be lost once the program has ended.
-- Promo codes are valid for a limited time only and expire on December 31, 2022.
+- Promo codes are valid for a limited time only and expire on December 31, 2023.
 - Mishie's Munchies reserves the right to discontinue a promo code at any time.
 - You are responsible for making sure your friends indicate the correct Instagram handle or email when submitting their order.
 - Purchases must be complete in order to be valid (paid and received).

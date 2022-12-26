@@ -7,12 +7,7 @@ permalink: /order
 <div class="note"></div>
 SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
-## Order Status: OPEN
-Pick-up Date: Wednesday, June 15
-
-Last Day to Order: Tuesday, June 14
-
-Follow us [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) to stay updated!
+## Message [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) for inquiries!
 
 <div class="responsive-iframe-container big-container">
     <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&showNav=1&showTitle=0&title=Mishie's%20Munchies%20Order%20Dates&showDate=1&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=bWlzaGllc211bmNoaWVzQGdtYWlsLmNvbQ&color=%23039BE5" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
