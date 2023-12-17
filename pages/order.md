@@ -5,7 +5,6 @@ permalink: /order
 ---
 
 <div class="note"></div>
-SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
 ## Message [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) for inquiries!
 
