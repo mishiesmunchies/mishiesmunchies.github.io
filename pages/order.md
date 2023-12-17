@@ -28,7 +28,7 @@ permalink: /order
 For more information, check out the Ordering section in our [FAQ](faq).
 
 ## Allergens
-- All rolls are vegan and dairy-free. 
+- All Cinnamon Rolls are Vegan and Dairy-free created using Almond Milk and Plant-based Oils.
 - Due to the baking process, we cannot guarantee a nut-free environment. 
 - If you have a severe allergy, please order at your own discretion. 
 - Message [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) on Instagram for more information. 

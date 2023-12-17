@@ -1,19 +1,13 @@
----
-layout: page
-title: menu
-permalink: /menu
----
-
-<div class="menu-order-link">
+I"{<div class="menu-order-link">
      <h2>Ready for a treat?</h2>
-     <a href="{{ site.github.url }}/order" class="button-5 menu-order">Order</a>
+     <a href="/order" class="button-5 menu-order">Order</a>
 </div>
 
-## Cinnamon Rolls
-*All Cinnamon Rolls are Vegan and Dairy-free created using Almond Milk and Plant-based Oils.*
+<h2 id="cinnamon-rolls">Cinnamon Rolls</h2>
+<p><em>All Cinnamon Rolls are Vegan and Dairy-free created using Almond Milk and Plant-based Oils.</em></p>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-original.jpg">
+     <img class="menu-img" src="../assets/img/menu-original.jpg" />
      <div class="menu-text">
           <h3>Original</h3>
           The original cinnamon roll is simply irresistible, boasting a luscious swirl of cinnamon and rich brown sugar nestled within its pillowy layers, ensuring that this decadent treat will consistently leave you yearning for another delightful bite!
@@ -21,7 +15,7 @@ permalink: /menu
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-chocolate.jpg">
+     <img class="menu-img" src="../assets/img/menu-chocolate.jpg" />
      <div class="menu-text">
           <h3>Chocolate Dipped</h3>
           Enrobed in velvety 70% dark chocolate and adorned with delicate almond thins, this pairing brings you the allure of Drumstick ice-cream cones, marking it as one of my cherished and preferred desserts!
@@ -29,7 +23,7 @@ permalink: /menu
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-marshmallow.jpg">
+     <img class="menu-img" src="../assets/img/menu-marshmallow.jpg" />
      <div class="menu-text">
           <h3>Mishie's Marshmallows</h3>
           Crowned with vegan marshmallows, meticulously oven-browned to perfection, this delectable topping transforms into an extraordinary layer of irresistibly gooey yumminess, adding an unforgettable dimension to your cinnamon roll experience!
@@ -37,28 +31,29 @@ permalink: /menu
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-cookies.jpg">
+     <img class="menu-img" src="../assets/img/menu-cookies.jpg" />
      <div class="menu-text">
-          <h3>Cookies & Cream</h3>
+          <h3>Cookies &amp; Cream</h3>
           Adorned with a luscious sugar glaze and generous chunks of Oreo's, this roll is the ultimate companion to a cup of hot chocolate. If a delightful crunch is what you seek, look no further — this is the perfect treat for you!
      </div>
 </div>
 
-## Specialties
+<h2 id="specialties">Specialties</h2>
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/menu-pizza.jpg">
+     <img class="menu-img" src="../assets/img/menu-pizza.jpg" />
      <div class="menu-text">
           <h3>Pizza Rolls</h3>
-          Resembling our classic cinnamon rolls in form, these savory delights diverge with an infusion of tomato sauce, spices, and green onions. Ideal for an afternoon snack or a dinner appetizer, this unique creation will undoubtedly captivate your taste buds!
+          Resembling our classic cinnamon rolls in form, these savory delights diverge with a savory infusion of tomato sauce, spices, and vibrant green onions. Ideal for an afternoon snack or a dinner appetizer, this unique creation guarantees a delightful experience. If you have an affinity for pizza, this savory rendition will undoubtedly captivate your taste buds!
      </div>
 </div>
 
 <div class="menu-row">
-     <img class="menu-img" src="../assets/img/black-sesame.jpeg">
+     <img class="menu-img" src="../assets/img/black-sesame.jpeg" />
      <div class="menu-text">
           <h3>Black Sesame Soup</h3>
           A popular Chinese dessert, this aromatic soup delights the senses with its rich, nutty flavor and a distinctive fragrance, making it a comforting and flavorful treat.
      </div>
 </div>
 
-<img class="full-menu" src="../assets/img/menu-page.svg">
+<p><img class="full-menu" src="../assets/img/menu-page.svg" /></p>
+:ET
