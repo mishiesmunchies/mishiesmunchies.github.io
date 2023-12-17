@@ -1,0 +1,59 @@
+I"<div class="menu-order-link">
+     <h2>Ready for a treat?</h2>
+     <a href="/order" class="button-5 menu-order">Order</a>
+</div>
+
+<h2 id="cinnamon-rolls">Cinnamon Rolls</h2>
+<p><em>All Cinnamon Rolls are Vegan and Dairy-free created using Almond Milk and Plant-based Oils.</em></p>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-original.jpg" />
+     <div class="menu-text">
+          <h3>Original</h3>
+          The original cinnamon roll is simply irresistible, boasting a luscious swirl of cinnamon and rich brown sugar nestled within its pillowy layers, ensuring that this decadent treat will consistently leave you yearning for another delightful bite!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-chocolate.jpg" />
+     <div class="menu-text">
+          <h3>Chocolate Dipped</h3>
+          Enrobed in velvety 70% dark chocolate and adorned with delicate almond thins, this pairing brings you the allure of Drumstick ice-cream cones, marking it as one of my cherished and preferred desserts!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-marshmallow.jpg" />
+     <div class="menu-text">
+          <h3>Mishie's Marshmallows</h3>
+          Crowned with vegan marshmallows, meticulously oven-browned to perfection, this delectable topping transforms into an extraordinary layer of irresistibly gooey yumminess, adding an unforgettable dimension to your cinnamon roll experience!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-cookies.jpg" />
+     <div class="menu-text">
+          <h3>Cookies &amp; Cream</h3>
+          Adorned with a luscious sugar glaze and generous chunks of Oreo's, this roll is a perfect companion to a cup of hot chocolate. If a delightful crunch is what you seek, look no further — this is the perfect treat for your indulgence!
+     </div>
+</div>
+
+<h2 id="specialties">Specialties</h2>
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/menu-pizza.jpg" />
+     <div class="menu-text">
+          <h3>Pizza Rolls</h3>
+          Similar to our classic cinnamon rolls, but packed with tomato sauce, spices, and green onions, these rolls will be perfect as an afternoon snack or the appetizer before dinner. If you like pizza, you will definitely enjoy this one!
+     </div>
+</div>
+
+<div class="menu-row">
+     <img class="menu-img" src="../assets/img/black-sesame.jpeg" />
+     <div class="menu-text">
+          <h3>Black Sesame Soup</h3>
+          A popular Chinese dessert, this aromatic soup delights the senses with its rich, nutty flavor and a distinctive fragrance, making it a comforting and flavorful treat.
+     </div>
+</div>
+
+<p><img class="full-menu" src="../assets/img/menu-page.svg" /></p>
+:ET

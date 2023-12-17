@@ -5,7 +5,6 @@ permalink: /order
 ---
 
 <div class="note"></div>
-SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using your referral! For more information, read about our [Referrals Program.](referrals)
 
 ## Message [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) for inquiries!
 
@@ -23,13 +22,13 @@ SPECIAL OFFER - Get a free box of cinnamon rolls for every 2 boxes bought using 
 1. Check our [Menu](menu).
 2. Fill out the order form below.
 3. You will receive an order confirmation within 24 hours along with the payment process and pick-up information.
-4. Pick up your order on the specified date near 29th skytrain station. Exact location will be provided upon ordering.
+4. Pick up your order on the specified date near [29th avenue skytrain station](https://maps.app.goo.gl/3Wb6DUpTJMYiQKsp8). Exact location will be provided upon ordering.
 5. Enjoy!
 
 For more information, check out the Ordering section in our [FAQ](faq).
 
 ## Allergens
-- All rolls are vegan and dairy-free. 
+- All Cinnamon Rolls are Vegan and Dairy-free created using Almond Milk and Plant-based Oils.
 - Due to the baking process, we cannot guarantee a nut-free environment. 
 - If you have a severe allergy, please order at your own discretion. 
 - Message [@mishiesmunchies](https://www.instagram.com/mishiesmunchies/) on Instagram for more information. 
