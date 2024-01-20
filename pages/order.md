@@ -25,7 +25,7 @@ permalink: /order
 4. Pick up your order on the specified date near [29th avenue skytrain station](https://maps.app.goo.gl/3Wb6DUpTJMYiQKsp8). Exact location will be provided upon ordering.
 5. Enjoy!
 
-For more information, check out the Ordering section in our [FAQ](faq).
+For more information, check out our [FAQ](faq).
 
 ## Allergens
 - All Cinnamon Rolls are Vegan and Dairy-free created using Almond Milk and Plant-based Oils.

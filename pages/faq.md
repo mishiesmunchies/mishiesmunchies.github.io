@@ -4,7 +4,8 @@ title: faq
 permalink: /faq
 ---
 
-## Ordering
+### Are your cinnamon rolls vegan-friendly or dairy-free?
+*Yes, all of our cinnamon rolls are Vegan-friendly and Dairy-free created using Almond Milk and Plant-based Oils.*
 
 ### Where do I pick up the cinnamon rolls?
 *The cinnamon rolls are available for pick up in Vancouver (near [29th avenue skytrain station](https://maps.app.goo.gl/3Wb6DUpTJMYiQKsp8)). Exact location will be provided upon ordering.*
